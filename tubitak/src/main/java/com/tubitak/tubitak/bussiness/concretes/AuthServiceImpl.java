@@ -1,5 +1,7 @@
 package com.tubitak.tubitak.bussiness.concretes;
 
-public interface AuthServiceImpl {
+import com.tubitak.tubitak.bussiness.abstracts.AuthService;
+
+public class AuthServiceImpl implements AuthService {
 
 }
